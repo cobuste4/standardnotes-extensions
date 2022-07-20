@@ -1,0 +1,14 @@
+---
+id: org.standardnotes.advanced-checklist
+npm: sn-advanced-checklist
+repo_url: https://github.com/xthursdayx/advanced-checklist.git
+index: public/index.html
+
+name: Advanced Checklist
+content_type: SN|Component
+area: editor-editor
+marketing_url: https://github.com/standardnotes/advanced-checklist
+thumbnail_url:
+description: A task editor with grouping functionality.
+flags: []
+...

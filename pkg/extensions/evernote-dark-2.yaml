@@ -1,0 +1,19 @@
+---
+id: io.github.xthursdayx.sn-theme-evernote-dark
+repo_url: https://github.com/xthursdayx/sn-theme-evernote-dark.git
+index: dist/dist.css
+
+name: Evernote Dark 2
+content_type: SN|Theme
+area: themes
+marketing_url: https://github.com/xthursdayx/sn-theme-evernote-dark
+thumbnail_url: https://raw.githubusercontent.com/xthursdayx/sn-theme-evernote-dark/master/preview.png
+description: Evernote inspired dark theme for Standard Notes.
+
+statusBar: dark-content
+dock_icon:
+  type: circle
+  background_color: '#00a82e'
+  foreground_color: '#0081c2'
+  border_color: '#00a82e'
+...

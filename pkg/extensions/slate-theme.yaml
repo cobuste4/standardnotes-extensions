@@ -1,0 +1,19 @@
+---
+id: space.yuggoth.sn-slate-theme
+repo_url: https://github.com/yithian/slate-theme.git
+index: dist/dist.css
+
+name: Slate
+content_type: SN|Theme
+area: themes
+marketing_url: https://github.com/yithian/slate-theme
+thumbnail_url: https://raw.githubusercontent.com/yithian/slate-theme/main/images/sn-screenshot.png
+description: A theme with shady grey and mossy green highlights.
+
+statusBar: dark-content
+dock_icon:
+  type: circle
+  background_color: '#252A2F'
+  foreground_color: '#252A2F'
+  border_color: '#8A9A5B'
+...

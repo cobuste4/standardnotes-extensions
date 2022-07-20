@@ -1,0 +1,13 @@
+---
+id: dev.dec0dOS.fast_editor
+repo_url: https://github.com/dec0dOS/standard-notes-fast-editor.git
+index: index.html
+
+name: Fast Editor
+content_type: SN|Component
+area: editor-editor
+marketing_url: https://github.com/dec0dOS/standard-notes-fast-editor
+thumbnail_url: 
+description: A mobile-friendly and high-performance editor that makes it easy to write and read nested notes.
+flags: []
+...

@@ -1,0 +1,13 @@
+---
+id: dev.dec0dOS.ultimate_editor
+repo_url: https://github.com/dec0dOS/standard-notes-ultimate-editor.git
+index: public/index.html
+
+name: Ultimate Editor
+content_type: SN|Component
+area: editor-editor
+marketing_url: https://github.com/dec0dOS/standard-notes-ultimate-editor
+thumbnail_url: 
+description: Markdown editor with improved mobile support and performance.
+flags: []
+...
